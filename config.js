@@ -12,7 +12,6 @@ var config = {
         "以大幻梦森罗万象狂气断罪眼",
         "赐我僭越之罚",
         "解封后再补礼物",
-        "大概是本书",
         "搞这种东西还是太闲了",
         "没了",
     ],
@@ -32,9 +31,9 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        play: "music？",
+        bannar_coming: "点击挂上",
+        balloons_flying: "点击送气球",
         cake_fadein: "cake？",
         light_candle: "candle？",
         wish_message: "Happy Birthday！",
